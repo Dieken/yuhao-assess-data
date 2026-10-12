@@ -8,10 +8,10 @@
     "更新時間": "2026-10-06T21:31:10.080Z",
     "官網": "https://shurufa.app/ime/moling",
     "相關資源鏈接": [
-      "https://github.com/Dieken/code_genie/tree/moling/moling/output-20260603-072215/thread-03"
+      "https://github.com/Dieken/code_genie/tree/moling/moling/moling-output/output-20260603-072215/thread-03"
     ],
     "碼表下載鏈接": "https://zhuyuhao.com/yuhao-assess-data/tables/moling.txt",
-    "描述": "完整大字集码表使用 ./generate-root-chart.sh output-20260603-072215/thread-03 生成。"
+    "描述": "完整大字集码表使用 ./generate-root-chart.sh moling-output/output-20260603-072215/thread-03 生成。"
   },
   "方案參數": {
     "最大碼長": 4,
